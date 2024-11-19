@@ -1,0 +1,18 @@
+{
+    "name": "minoro/aula-composer",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hamada-minoro",
+            "email": "hamada.minoro.0@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
